@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('Hello') {
          steps {
-            echo 'Trigger build job'
+            echo 'Trigger build job on Jenkins EC2'
          }
       }
    }

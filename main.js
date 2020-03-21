@@ -5,3 +5,4 @@ console.log('Does it work again?');
 console.log('Does it work with pull request?');
 console.log('Merge develop into master');
 console.log('Test SSH for MacBook Pro');
+console.log('Test Jenkins EC2');
